@@ -18,3 +18,8 @@ header {
   margin-right: auto;
   width: 75%;
 }
+
+nav a {
+  padding: 0px 10px;
+  background-color: grey;
+}
